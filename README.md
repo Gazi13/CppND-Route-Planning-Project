@@ -1,8 +1,10 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
 
-<img src="map.png" width="600" height="450" />
+
+<p align="center">
+  <img src="imgs/ank1.png" /> <img src="imgs/odt1.png" />
+</p>
 
 ## Cloning
 
